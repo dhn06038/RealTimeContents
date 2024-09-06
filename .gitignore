@@ -49,6 +49,10 @@ SourceArt/**/*.tga
 Binaries/*
 Plugins/**/Binaries/*
 
+RealTimeContentsEx/Binaries/*
+RealTimeContentsEx/Intermediate/*
+RealTimeContentsEx/Saved/*
+
 # Builds
 Build/*
 
